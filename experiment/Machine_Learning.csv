@@ -1,0 +1,5 @@
+MCQ,Choices,Correct
+What is machine learning?,a: A field of artificial intelligence that focuses on enabling machines to learn from data and improve their performance over time | b: A traditional programming approach where developers write specific instructions for a machine to follow | c: A technique to manually program machines for every task | d: A method to teach machines to learn without any data,a
+Which of the following is NOT a type of machine learning?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Explicit programming,d
+In which type of machine learning is the algorithm trained on labeled data?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: None of the above,a
+Which of the following is an application of machine learning mentioned in the text?,a: Natural language processing | b: Computer vision | c: Healthcare | d: All of the above,d
