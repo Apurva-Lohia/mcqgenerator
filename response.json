@@ -1,4 +1,4 @@
-RESPONSE_JSON = {
+{
     "1": {
         "no": "1",
         "mcq": "multiple choice questions",
